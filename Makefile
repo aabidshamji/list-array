@@ -2,8 +2,7 @@
 # Author:        Henry M. Walker
 # Created:       20 April 2008
 # Simplified:    18 November 2011
-# Adapted:       21 November 2017 by CSC161 student
-# Acknowledgement:  adapted from an example by Marge Coahran
+# Adapted:       21 November 2017 by Aabid Shamji
 #----------------------------------------------------------------------------
 # Use the clang compiler
 CC = clang
