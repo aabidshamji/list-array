@@ -1,7 +1,3 @@
-/***********************************************************************
- * Homework: List arrays
- ***********************************************************************/
-
 /* Conceptual list collection backed by a list of arrays with increasing size.
  * Supports the following operations:
  *  new      - Create a new listarray
